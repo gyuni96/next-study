@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "d3",
+      "title": "title",
+      "completed": true
+    },
+    {
+      "id": "789f19f2-7282-478b-9f20-dfe2da94305b",
+      "title": "asdfasdf",
+      "completed": true
+    },
+    {
+      "id": "da293e6a-4c5f-47c1-9e6b-f03d67c21324",
+      "title": "asdfasdf",
+      "completed": false
+    }
+  ]
+}
